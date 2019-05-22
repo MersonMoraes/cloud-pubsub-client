@@ -1,0 +1,17 @@
+{
+  "name": "cloud-pubsub-client",
+  "version": "1.0.0",
+  "description": "Google Cloud Pub/Sub Client service.",
+  "author": "Emerson Leite de Moraes <emerson.leite.moraes@gmail.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.29.1",
+    "express": "^4.16.4"
+  }
+}
